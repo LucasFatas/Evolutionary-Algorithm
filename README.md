@@ -1,0 +1,3 @@
+# Evolutionary Computing
+
+The assignment was to write a code to navigate a robot through a supermarket to find multiple products. To solve this problem we had to split it up in two parts, find the shortest paths between the products and then find the shortest route to take. For the first part we used Ant Colony Optimization to find the most optimal path in a maze. Then the second part we used a genetic algorithm to find the shortest route.
